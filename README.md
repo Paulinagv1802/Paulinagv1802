@@ -1,4 +1,4 @@
-# Hi there, I'm María Paulina! 👋
+# Hi there, I'm María Paulina!! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
@@ -6,7 +6,12 @@
 
 Soy estudiante de Estadistica de la Universidad Nacional sede Medellín. Me gusta estar aprendiendo, me interesa aprender sobre el analisis de datos y la programación. 
 
-Tambien en mi tiempo libre me gusta jubar a la decoradora de interiores y deportista.
+En mi tiempo libre me gusta jugar a la decoradora de interiores, practicar idiomas y ser deportista de bajo rendimiento.
+
+🌱 Aprendiendo constantemenete: Python, R, PowerBI y análisis de datos
+🔭 Trabajo en: proyectos académicos y ejercicios de programación
+🌍 Languages: Python, R, ingles y español
+
 
 
 
