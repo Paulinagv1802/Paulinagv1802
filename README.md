@@ -1,6 +1,6 @@
 # Hi there, I'm María Paulina!! 👋
 
-![Banner Image](your_banner_image_url_here)
+Estoy aprendiendo a poner imagines. Patience 
 
 ## About Me 🚀
 
