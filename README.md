@@ -1,8 +1,8 @@
 # Hi there, I'm María Paulina!! 👋
 
-Estoy aprendiendo a poner imagines. Patience 
+Estoy aprendiendo a poner imagenes. Patience 🙂
 
-## About Me 🚀
+## About Me 🏃🏽‍♀️
 
 Soy estudiante de Estadistica de la Universidad Nacional sede Medellín. Me gusta estar aprendiendo, me interesa aprender sobre el analisis de datos y la programación. 
 
